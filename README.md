@@ -1,2 +1,0 @@
-# RemoteControl
-RemoteControl - GitIt
